@@ -132,3 +132,35 @@ SPDX-FileCopyrightText = [
   "Map geometry: GADM (https://gadm.org)",
 ]
 SPDX-License-Identifier = "MIT AND LicenseRef-GADM"
+
+# Figures generated for the dataset report by docs/dataset-report/build_report.py. Each is
+# drawn from the same data files annotated above, so it carries their copyrights: the
+# district geometry is GADM, the forecast side is NOAA GEFSv12 and the verification side is
+# ERA5 (Copernicus).
+[[annotations]]
+path = "docs/dataset-report/assets/fig1_error_distributions.png"
+precedence = "override"
+SPDX-FileCopyrightText = [
+  "Contains modified Copernicus Climate Change Service information 2026",
+  "2026 The Sanket contributors (Team Winging It)",
+]
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/dataset-report/assets/fig2_coverage.png"
+precedence = "override"
+SPDX-FileCopyrightText = [
+  "NOAA GEFSv12 reforecast (https://registry.opendata.aws/noaa-gefs-reforecast/)",
+  "2026 The Sanket contributors (Team Winging It)",
+]
+SPDX-License-Identifier = "MIT AND LicenseRef-NOAA-Open-Data"
+
+[[annotations]]
+path = "docs/dataset-report/assets/fig3_districts.png"
+precedence = "override"
+SPDX-FileCopyrightText = [
+  "GADM (https://gadm.org)",
+  "International Centre for Tropical Agriculture (CIAT), CGIAR-CSI SRTM v4",
+  "2026 The Sanket contributors (Team Winging It)",
+]
+SPDX-License-Identifier = "MIT AND LicenseRef-GADM AND LicenseRef-CIAT-SRTM"

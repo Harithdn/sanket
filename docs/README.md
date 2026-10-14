@@ -18,6 +18,7 @@ Start with the [project README](../README.md). This folder holds everything behi
 | [boundary-geometry-licensing.md](boundary-geometry-licensing.md) | Where the district boundaries come from, what their licence allows, and India's rules for political maps |
 | [boundary-review.md](boundary-review.md) | The first pass of the boundary depiction and licensing review (research, not legal advice) |
 | [replay-coverage-review.md](replay-coverage-review.md) | Whether Replay covers the events, and the failures, it should |
+| [dataset-report/](dataset-report/) | The assignment dataset report (PDF, markdown and build script) and the figures it draws from the data |
 | [analysis/](analysis/) | Measured outputs the docs cite, such as how far ERA5 and other products agree |
 
 ## Licensing

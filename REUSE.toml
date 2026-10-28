@@ -164,3 +164,19 @@ SPDX-FileCopyrightText = [
   "2026 The Sanket contributors (Team Winging It)",
 ]
 SPDX-License-Identifier = "MIT AND LicenseRef-GADM AND LicenseRef-CIAT-SRTM"
+
+# Figures generated for the preprocessing report by docs/preprocessing-report/build_report.py.
+# Each is drawn at build time from the same data files annotated above, so a figure carries
+# their terms: the forecast side is NOAA GEFSv12, the verification side is ERA5 (Copernicus),
+# the district descriptors and the weight table are GADM, and the elevation is SRTM (CIAT).
+[[annotations]]
+path = "docs/preprocessing-report/assets/*.png"
+precedence = "override"
+SPDX-FileCopyrightText = [
+  "Contains modified Copernicus Climate Change Service information 2026",
+  "NOAA GEFSv12 reforecast (https://registry.opendata.aws/noaa-gefs-reforecast/)",
+  "GADM (https://gadm.org)",
+  "International Centre for Tropical Agriculture (CIAT), CGIAR-CSI SRTM v4",
+  "2026 The Sanket contributors (Team Winging It)",
+]
+SPDX-License-Identifier = "MIT AND LicenseRef-NOAA-Open-Data AND CC-BY-4.0 AND LicenseRef-GADM AND LicenseRef-CIAT-SRTM"

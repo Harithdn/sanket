@@ -19,6 +19,7 @@ Start with the [project README](../README.md). This folder holds everything behi
 | [boundary-review.md](boundary-review.md) | The first pass of the boundary depiction and licensing review (research, not legal advice) |
 | [replay-coverage-review.md](replay-coverage-review.md) | Whether Replay covers the events, and the failures, it should |
 | [dataset-report/](dataset-report/) | The assignment dataset report (PDF, markdown and build script) and the figures it draws from the data |
+| [preprocessing-report/](preprocessing-report/) | The assignment dataset-cleaning, preprocessing and model-selection report (PDF, markdown, eight figures and the build script that measures every number from `backend/data/`) |
 | [analysis/](analysis/) | Measured outputs the docs cite, such as how far ERA5 and other products agree |
 
 ## Licensing

@@ -180,3 +180,15 @@ SPDX-FileCopyrightText = [
   "2026 The Sanket contributors (Team Winging It)",
 ]
 SPDX-License-Identifier = "MIT AND LicenseRef-NOAA-Open-Data AND CC-BY-4.0 AND LicenseRef-GADM AND LicenseRef-CIAT-SRTM"
+
+[[annotations]]
+path = "docs/methodology-report/assets/*.png"
+precedence = "override"
+SPDX-FileCopyrightText = [
+  "Contains modified Copernicus Climate Change Service information 2026",
+  "NOAA GEFSv12 reforecast (https://registry.opendata.aws/noaa-gefs-reforecast/)",
+  "GADM (https://gadm.org)",
+  "International Centre for Tropical Agriculture (CIAT), CGIAR-CSI SRTM v4",
+  "2026 The Sanket contributors (Team Winging It)",
+]
+SPDX-License-Identifier = "MIT AND LicenseRef-NOAA-Open-Data AND CC-BY-4.0 AND LicenseRef-GADM AND LicenseRef-CIAT-SRTM"

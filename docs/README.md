@@ -20,6 +20,7 @@ Start with the [project README](../README.md). This folder holds everything behi
 | [replay-coverage-review.md](replay-coverage-review.md) | Whether Replay covers the events, and the failures, it should |
 | [dataset-report/](dataset-report/) | The assignment dataset report (PDF, markdown and build script) and the figures it draws from the data |
 | [preprocessing-report/](preprocessing-report/) | The assignment dataset-cleaning, preprocessing and model-selection report (PDF, markdown, eight figures and the build script that measures every number from `backend/data/`) |
+| [methodology-report/](methodology-report/) | The assignment methodology and model-performance report (`Research_paper/Final/Methodology and Model Performance Report - Sanket.pdf`, markdown, figures and reproducible build script) |
 | [analysis/](analysis/) | Measured outputs the docs cite, such as how far ERA5 and other products agree |
 
 ## Licensing
